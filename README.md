@@ -13,3 +13,14 @@ Hello and welcome to my custom Macropad project! I did this project to learn mor
 
 ## Isometric view of Case
 <img width="1240" height="720" alt="image" src="https://github.com/user-attachments/assets/e295fbea-2353-4a1b-9813-604c1e7a7083" />
+
+## Bill of Materials (BOM)
+| Component  | Quantity Used | Description | Source |
+| ------------- | ------------- | - | - |
+| Seeeduino XIAO RP2040 | 1 | Microcontroller|Seeed Studio |
+| Custom PCB | 1 |Custom PCB, designed in KiCAD | PCBWay |
+| Mechanical Switches | 3 | Cherry MX Switches| Online|
+| Keycaps | 3 | MX compatible keycaps |Online |
+| 3D Printed Case | 1 | Custom case, top and bottom, designed in Onshape |Self-Printed|
+| M3 Screws | 4 | Meant for case assembly | Hardware store |
+| USB C Cable | 1 | To connect macropad |Self provided|
