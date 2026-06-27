@@ -1,5 +1,5 @@
-# 3-Key-Hackpad-Macropad
-Hello and welcome to my custom Macropad project! I did this project to learn more about PCB design, soldering, and software. The macropad was designed using KiCad for the PCB, Onshape for the casing, and programmed in Python.
+# 3-Key-Lattice-Hackpad
+Hello and welcome to my custom Lattice Hackpad project! I did this project to learn more about PCB design, soldering, and software. The hackpad was designed using KiCad for the PCB, Onshape for the casing, and programmed in Python.
 # Design
 ## PCB Schematic
 <img width="953" height="516" alt="image" src="https://github.com/user-attachments/assets/0c1bab7f-2500-460a-8104-8dd568193adb" />
@@ -12,7 +12,7 @@ Hello and welcome to my custom Macropad project! I did this project to learn mor
 <img width="338" height="667" alt="image" src="https://github.com/user-attachments/assets/a1592fdc-79e1-41b1-b8ef-4ff37c10a64b" />
 
 ## Isometric view of Case
-<img width="1240" height="720" alt="image" src="https://github.com/user-attachments/assets/e295fbea-2353-4a1b-9813-604c1e7a7083" />
+<img width="1432" height="827" alt="image" src="https://github.com/user-attachments/assets/96d448b0-9ee4-4ae9-bb27-7be206a1f2fb" />
 
 ## Bill of Materials (BOM)
 | Component  | Quantity Used | Description | Source |
